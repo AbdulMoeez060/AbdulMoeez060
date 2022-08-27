@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Abdul Moeez here</h1>
-<h3 align="center">I am a Computer Science Major Senior with passion for learning new technologies</h3>
+<h3 align="center">I am a Computer Science Major Senior with passion for learning new technologies and improving what i already know.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoeez060&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoeez060" /> </p>
 
@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/amoeez_here" target="blank"><img src="https://img.shields.io/twitter/follow/amoeez_here?logo=twitter&style=for-the-badge" alt="amoeez_here" /></a> </p>
 
-- 🔭 I’m currently working on **Improving My skills**
+- 🔭 I’m currently working on **Improving My skills and learning new stuff**
 
 - 🌱 I’m currently learning **ReactJs**
 
 - 🤝 I’m looking for help with **Web Development and Machine Learning**
+
+- ❤️ I love when i **Find something new about a technology, i've learned**
 
 - 💬 Ask me about **C++, C, Unity**
 
