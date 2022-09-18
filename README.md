@@ -22,7 +22,7 @@
 
 - 📫 Reach me on **abdulmoeez0812@gmail.com**
 
-- ⚡ Fun fact **i thrive under Pressure and love to work on challenging projects**
+- ⚡ About Me **i thrive under Pressure and love to work on challenging projects**
 
 
 
