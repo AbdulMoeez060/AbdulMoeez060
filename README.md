@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Abdul Moeez here</h1>
-<h3 align="center">I am a Computer Science Major Undergrad Senior with passion for learning new technologies and improving what i already know.</h3>
+<h3 align="center">I am a Computer Science Major Senior with passion for learning new technologies and improving what i already know.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoeez060&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoeez060" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Improving My skills and learning new stuff**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently following along **Odin Project**
 
 - 🤝 I’m looking for help with **Web Development and Machine Learning**
 
